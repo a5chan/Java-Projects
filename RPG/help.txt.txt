@@ -1,0 +1,19 @@
+You begin in a world trapped with monsters and wanderers, your mission is to become the 
+strongest hero alive. In this game, you will battle monsters, but they will not die.
+You will be able to test your strength and strategic skills. On the second console window
+shows your health, your money, and your attack damage. When you find items on the maps, you 
+can increase your damage, but think wisely on which ones you want to choose FIRST. The buildings
+all include people that want to help you on your journey for a small price. Everytime, you win
+a battle, you will obtain gold, which you can use to heal yourself. When you reach zero health,
+you will be slain, so do not understimate your enemies. If you are feeling tough, challenge 
+yourself by heading to the dungeon in the hole on the northeast part of the map. You cannot 
+walk through trees nor can you walk through buildings. You are not able to step out of bounds 
+or get by the machines. Now, I ask one thing, what is your name adventurer?
+
+
+
+
+
+
+Once done, Press P to play.
+ 
