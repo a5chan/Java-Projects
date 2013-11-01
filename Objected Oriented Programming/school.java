@@ -13,10 +13,10 @@ public class school{
 	
 	teacher pileggi;
 	pileggi = new teacher(19421942, "shutupkid@ycdsb.ca", "physed");
-	pileggi.sendEmail("shut up kid");
+	pileggi.sendEmail("Hi there!!");
 	pileggi.callInSick();
 	pileggi.teach();
-	pileggi.sendEmail("I rage kuyat see ya nerds");
+	pileggi.sendEmail("I am leaving see ya later!");
 	pileggi.oncall("physed");
 	pileggi.callInSick();
 	pileggi.callInSick();

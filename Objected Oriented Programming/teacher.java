@@ -35,6 +35,6 @@ public class teacher extends YCDSBEmployee implements departmenthead{
 		System.out.println("What rooms do we have, what courses? How can we make it fair and efficient");	
 	}		
 	public void createbudget(){
-		System.out.println("stfu kid y umad tho? oh ya btw it's 20 % goes to books, 80% to computers");
+		System.out.println("By the way it's 20 % goes to books, 80% to computers");
 	}
 }

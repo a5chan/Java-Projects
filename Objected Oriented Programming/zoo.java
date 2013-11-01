@@ -55,7 +55,7 @@ public class zoo{
 		yousifa.givebirth();
 		System.out.println("Yousifa is in this mood: " + yousifa.getMood("zookeeper"));
 		System.out.println("My Yousifa is in this mood: " + yousifa.getMood("family"));
-		yousifa.setMood("migraine I don't give a shit faggot about anything at all AJAJJAJAJAJA IM FEEDING");
+		yousifa.setMood("My mood is not good :(");
 		System.out.println("Buddy Yousifa is in this mood: " + yousifa.getMood("friend"));
 		
 		//PolyMophism
