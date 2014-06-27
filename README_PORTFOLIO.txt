@@ -1,3 +1,7 @@
+This is my linkedin profile :)
+
+http://ca.linkedin.com/pub/allen-chan/98/757/a33
+
 Most of this portfolio, like the projects were done on my free time during university. Most of the code has 
 not been properly indented, but I will try my best to update as I go along since the term is getting busy.  
 
